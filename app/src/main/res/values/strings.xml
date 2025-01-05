@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gen_passw</string>
+    <string name="pas_len">Длинна пароля</string>
+    <string name="butt_name">Скопировать</string>
+    <string name="switch_lang">Русская раскладка</string>
+    <string name="switch_size">Прописные буквы</string>
+    <string name="switch_add_symbols">Добавить спец символы</string>
+    <string name="res_text">Ваш пароль</string>
+</resources>
